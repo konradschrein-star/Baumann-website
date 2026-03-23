@@ -9,15 +9,15 @@
     --color-primary-light: #334155;
     --color-primary-dark: #0F172A;
 
-    /* Secondary Colors - Warm Accent */
-    --color-secondary: #D97706;
-    --color-secondary-light: #F59E0B;
-    --color-secondary-dark: #B45309;
+    /* Secondary Colors - Warm Wood Brown */
+    --color-secondary: #8B4513;
+    --color-secondary-light: #A0826D;
+    --color-secondary-dark: #6B4423;
 
-    /* CTA - Strong Orange for Action */
-    --color-accent: #EA580C;
-    --color-accent-light: #FB923C;
-    --color-accent-dark: #C2410C;
+    /* CTA - Natural Green for Action */
+    --color-accent: #4A7C3C;
+    --color-accent-light: #5A8C4C;
+    --color-accent-dark: #3A6C2C;
 
     /* Neutral Colors - Clean & Modern */
     --color-bg: #FFFFFF;
